@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Cattail
 
-I am a student in NanJing.A frontend developer : ) .
+I am a student in NanJing. A frontend developer : ) .
 <br/>
 <br/>
 

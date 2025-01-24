@@ -44,10 +44,3 @@ I am a student in NanJing. A frontend developer : ) .
 <a href="https://www.figma.com/" target="_blank">
   <img align="left" alt="figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg">
 </a>
-
-
-
-
-### 🛠️ My Projects
-
-Being developed

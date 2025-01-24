@@ -57,7 +57,6 @@ Being developed
 ![Stats Overview]
 ![Most Used Languages]
 
-</a>
 
 <br>
 

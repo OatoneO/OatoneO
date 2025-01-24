@@ -1,8 +1,6 @@
 ## Hey 👋, I'm Cattail
 
 I am a student in NanJing. A frontend developer : ) .
-<br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
@@ -10,8 +8,6 @@ I am a student in NanJing. A frontend developer : ) .
 
 - 🌱 &nbsp; I’m currently learning Vue, React, Typescript;
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-
-<br>
 
 ### 🔨 Languages and Tools
 
@@ -49,16 +45,11 @@ I am a student in NanJing. A frontend developer : ) .
   <img align="left" alt="figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg">
 </a>
 
-<br>
-
 ### 📊 Github Stats
 
 Being developed
 ![Stats Overview]
 ![Most Used Languages]
-
-
-<br>
 
 ### 🛠️ My Projects
 

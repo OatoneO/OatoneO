@@ -45,11 +45,6 @@ I am a student in NanJing. A frontend developer : ) .
   <img align="left" alt="figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg">
 </a>
 
-### 📊 Github Stats
-
-Being developed
-![Stats Overview]
-![Most Used Languages]
 
 ### 🛠️ My Projects
 
